@@ -1,6 +1,6 @@
 {
       "homepage": "/DesignareSemillero/",
-      "predeploy": "npm run build",
+      "predeploy": "npm run dist",
       "deploy": "gh-pages -d dist",
       "name": "Repositorio de Trabajos Académicos",
       "version": "0.1.0",
