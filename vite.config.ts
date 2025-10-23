@@ -5,7 +5,7 @@
 
   export default defineConfig({
     plugins: [react()],
-    base: 'https://lizgar.github.io/DesignareSemillero/',
+    base: '/DesignareSemillero/',
     resolve: {
       extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
       alias: {
