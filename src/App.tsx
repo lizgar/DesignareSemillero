@@ -34,8 +34,8 @@ export const initialWorks: CreativeWork[] = [
     year: 2025,
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Blender', 'Maya', 'Premiere'],
-    coverImage: 'src/assets/estallido.jpeg',
-    createdAt: new Date('2024-03-15'),
+    coverImage: 'https://lizgar.github.io/ImgDesignare/assets/estallido.jpeg',
+    createdAt: new Date('2025'),
   },
   {
     id: '2',
