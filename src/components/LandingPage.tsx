@@ -47,8 +47,8 @@ export function LandingPage({ onNavigateToRepository }: LandingPageProps) {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <img src="https://lizgar.github.io/ImgDesignare/logo2.png" alt="DESIGNARE" className="h-16 w-auto" />
-               <img src="https://lizgar.github.io/ImgDesignare/sena.png" alt="DESIGNARE" className="h-16 w-auto" />
+              <img src="https://lizgar.github.io/ImgDesignare/assets/logo2.png" alt="DESIGNARE" className="h-16 w-auto" />
+               <img src="https://lizgar.github.io/ImgDesignare/assets/sena.png" alt="DESIGNARE" className="h-16 w-auto" />
             </div>
             
             <div className="flex items-center gap-4">
