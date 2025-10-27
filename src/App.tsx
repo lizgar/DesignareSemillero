@@ -87,15 +87,15 @@ export const initialWorks: CreativeWork[] = [
   },
   {
     id: '6',
-    title: 'App Móvil de Meditación',
-    author: 'Julián Torres',
-    category: 'UI/UX',
-    description: 'Diseño de experiencia e interfaz de usuario para una aplicación móvil de meditación guiada. Incluye investigación de usuarios, wireframes, prototipos de alta fidelidad y pruebas de usabilidad.',
-    year: 2024,
+    title: 'Cortometraje Animado: LACTIKA',
+    author: 'German Triviño, Daniel Beltran, Johan Torres, Viviana Ovalle, Christian Buñay, Arwen Pardo.',
+    category: 'Animación 3D',
+    description: 'Don lucho es un campesino lechero que vive de su labor hasta que llega una mega industria lechera que afecta sus ventas, en este corto se verá como Don Lucho atraviesa esta crisis económica y saca adelante su emprendimiento',
+    year: 2025,
     institution: 'DESIGNARE - Semillero de Investigación',
-    tools: ['Figma', 'Miro', 'Principle'],
-    coverImage: 'https://images.unsplash.com/photo-1586717799252-bd134ad00e26?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx1aSUyMHV4JTIwZGVzaWdufGVufDF8fHx8MTc2MDQ1MTU3OHww&ixlib=rb-4.1.0&q=80&w=1080',
-    createdAt: new Date('2024-04-02'),
+    tools: ['Maya Autodesk, Adobe Substance Painter, Adobe Photoshop, Adobe Illustrator, Krita, Adobe Premiere Pro y Adobe Audition.'],
+    coverImage: 'https://lizgar.github.io/ImgDesignare/assets/lactika.jpeg',
+    createdAt: new Date('2025'),
   },
 ];
 
