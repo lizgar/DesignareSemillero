@@ -58,8 +58,8 @@ export const initialWorks: CreativeWork[] = [
     year: 2025,
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Visual Code Studio', 'Adobe Photoshop', 'Adobe Illustrator', 'Adobe After Effects', 'Adobe Premiere'],
-    coverImage: 'src/assets/Metrika.jpeg',
-    createdAt: new Date('2023-11-10'),
+    coverImage: 'https://lizgar.github.io/ImgDesignare/assets/Metrika.jpeg',
+    createdAt: new Date('2025'),
   },
   {
     id: '4',
