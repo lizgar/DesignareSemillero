@@ -14,19 +14,19 @@ export function LandingPage({ onNavigateToRepository }: LandingPageProps) {
       icon: Palette,
       title: 'Temáticas sobre las industrias creativas',
       description: 'Aprende técnicas avanzadas de diseño, animación 3D e ilustración digital.',
-      image: 'src/assets/card1.jpg',
+      image: 'https://lizgar.github.io/ImgDesignare/card1.jpg',
     },
     {
       icon: Lightbulb,
       title: 'Conferencias Industria',
       description: 'Escucha a líderes de la industria creativa compartir sus experiencias, tendencias y visiones del futuro del diseño.',
-      image: 'src/assets/heroIMG.jpg',
+      image: 'https://lizgar.github.io/ImgDesignare/heroIMG.jpg',
     },
     {
       icon: Trophy,
       title: 'Exposición de Proyectos',
       description: 'Exhibe tu trabajo y conecta con otros creativos. Los mejores proyectos serán reconocidos!',
-      image: 'src/assets/card2.jpg',
+      image: 'https://lizgar.github.io/ImgDesignare/card2.jpg',
     },
   ];
 
@@ -47,8 +47,8 @@ export function LandingPage({ onNavigateToRepository }: LandingPageProps) {
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-              <img src="src/assets/logo2.png" alt="DESIGNARE" className="h-16 w-auto" />
-               <img src="src/assets/sena.png" alt="DESIGNARE" className="h-16 w-auto" />
+              <img src="https://lizgar.github.io/ImgDesignare/logo2.png" alt="DESIGNARE" className="h-16 w-auto" />
+               <img src="https://lizgar.github.io/ImgDesignare/sena.png" alt="DESIGNARE" className="h-16 w-auto" />
             </div>
             
             <div className="flex items-center gap-4">
@@ -77,7 +77,7 @@ export function LandingPage({ onNavigateToRepository }: LandingPageProps) {
           width: '14%',
           height: '14%',
         }}
-                src="src/assets/logo3.png"
+                src="https://lizgar.github.io/ImgDesignare/logo3.png"
                 alt="DESIGNARE Logo"
                 className="h-16 w-auto"
               />
@@ -291,10 +291,10 @@ export function LandingPage({ onNavigateToRepository }: LandingPageProps) {
             <div className="flex flex-col sm:flex-row gap-4 justify-center pt-4">
 
               <div className="flex items-center gap-4">
-              <a href='https://insertcoin.com.co/' target='_blank'><img src="src/assets/Logo_InsertCoin.png" alt="Insert coin"  /></a>
+              <a href='https://insertcoin.com.co/' target='_blank'><img src="https://lizgar.github.io/ImgDesignare/Logo_InsertCoin.png" alt="Insert coin"  /></a>
               </div>
               <div className="flex items-center gap-4">
-              <a href='https://dinamitaanimacion.com/' target='_blank'><img src="src/assets/Dinamita-Foco_logo.png" alt="Dinamita"  /></a>
+              <a href='https://dinamitaanimacion.com/' target='_blank'><img src="https://lizgar.github.io/ImgDesignare/Dinamita-Foco_logo.png" alt="Dinamita"  /></a>
               </div>
               
             </div>
