@@ -70,7 +70,7 @@ export const initialWorks: CreativeWork[] = [
     year: 2025,
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Premier After effects Photoshop Maya Zbrush Quick magic'],
-    coverImage: 'https://lizgar.github.io/ImgDesignare/assets/dragonslogo.jpg',
+    coverImage: 'https://lizgar.github.io/ImgDesignare/assets/dragonslogo2.jpg',
     createdAt: new Date('2025'),
   },
   {
