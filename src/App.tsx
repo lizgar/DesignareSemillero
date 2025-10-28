@@ -15,6 +15,7 @@ export type CreativeWork = {
   fileUrl?: string;
   coverImage?: string;
   createdAt: Date;
+  websiteUrl?: string;
   
 };
 
@@ -96,7 +97,8 @@ export const initialWorks: CreativeWork[] = [
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Maya Autodesk', 'Adobe Substance Painter', 'Adobe Photoshop', 'Adobe Illustrator', 'Krita', 'Adobe Premiere Pro', 'Adobe Audition.'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/lactika.jpeg',
-    createdAt: new Date('2025'),    
+    createdAt: new Date('2025'),
+    websiteUrl: "https://www.youtube.com/watch?v=crHvSmIwaeA&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE",
   },
 ];
 
