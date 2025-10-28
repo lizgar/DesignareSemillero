@@ -98,9 +98,9 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
 
           <div className="flex gap-3">
             <a
-    href={work.websiteUrl}          // 👈 tu URL de YouTube aquí
-    target="_blank"                // abre en nueva pestaña
-    rel="noopener noreferrer"     // buena práctica de seguridad
+    href={work.websiteUrl}          
+    target="_blank"              
+    rel="noopener noreferrer"    
     className="flex-1"
   >
     
