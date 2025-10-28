@@ -98,10 +98,10 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
 
           <div className="flex gap-3">
             
-            <a href="https://www.youtube.com/watch?v=crHvSmIwaeA&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE" ></a><Button variant="outline" className="flex-1">
+            <a href="https://www.youtube.com/watch?v=crHvSmIwaeA&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE" ><Button variant="outline" className="flex-1">
               <ExternalLink className="h-4 w-4 mr-2" />
              
-            </Button>
+            </Button></a>
           </div>
 
           <div className="bg-muted p-4 rounded-lg">
