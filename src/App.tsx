@@ -79,7 +79,7 @@ export const initialWorks: CreativeWork[] = [
     author: 'Michael Steven Ballen Romero, Sheila Damaris Gómez Castiblanco, Lizeth Dayanna León León y Nicole Stephania Montenegro Vanegas',
     category: 'Animación 3D',
     description: 'Heartnnet explora, desde una mirada introspectiva, las fisuras emocionales de una familia rota. Tres hermanas intentan sostener su frágil hogar marcado por la ausencia de sus padres y la falta de comunicación. Nick, la menor, se siente invisible y busca en un extraño en línea el consuelo y la validación que no encuentra en casa, sin sospechar que esa aparente conexión oculta manipulación y peligro. ',
-    year: 2023,
+    year: 2025,
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Blender', 'Maya', 'Premiere'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/Dream Factory.jpeg',
