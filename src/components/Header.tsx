@@ -25,7 +25,7 @@ export function Header({ searchQuery, onSearchChange, onAddWork, onNavigateToHom
     <>
       <header className="border-b bg-card">
         <div className="container mx-auto px-4 py-6">
-          <div className="flex flex-col items-center justify-center max-w-7xl mx-auto px-4 py-6">
+          <div className="flex flex-row items-center justify-center max-w-7xl mx-auto px-4 py-6">
             <div className="flex items-center gap-4">
                <img
                 src="https://lizgar.github.io/ImgDesignare/assets/logo2.png"
