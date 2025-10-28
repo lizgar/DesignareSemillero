@@ -100,7 +100,7 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
     
             <Button variant="outline" className="flex-1">
               <ExternalLink className="h-4 w-4 mr-2" />
-             {work.description}
+             {work.websiteUrl}
             </Button>
           </div>
 
