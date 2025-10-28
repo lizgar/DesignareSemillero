@@ -36,8 +36,7 @@ export const initialWorks: CreativeWork[] = [
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Blender', 'Maya', 'Premiere'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/estallido.jpeg',
-    createdAt: new Date('2025'),
-    
+    createdAt: new Date('2025'),    
   },
   {
     id: '2',
@@ -97,8 +96,7 @@ export const initialWorks: CreativeWork[] = [
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Maya Autodesk', 'Adobe Substance Painter', 'Adobe Photoshop', 'Adobe Illustrator', 'Krita', 'Adobe Premiere Pro', 'Adobe Audition.'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/lactika.jpeg',
-    createdAt: new Date('2025'),
-    
+    createdAt: new Date('2025'),    
   },
 ];
 
