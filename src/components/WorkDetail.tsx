@@ -97,17 +97,11 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
           <Separator />
 
           <div className="flex gap-3">
-            <a
-    href={work.websiteUrl}          
-    target="_blank"              
-    rel="noopener noreferrer"    
-    className="flex-1"
-  >
-    
+            <a href={work.websiteUrl} target="_blank"  
             <Button variant="outline" className="flex-1">
               <ExternalLink className="h-4 w-4 mr-2" />
              
-            </Button>
+            </Button></a> 
           </div>
 
           <div className="bg-muted p-4 rounded-lg">
