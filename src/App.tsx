@@ -37,7 +37,8 @@ export const initialWorks: CreativeWork[] = [
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Blender', 'Maya', 'Premiere'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/estallido.jpeg',
-    createdAt: new Date('2025'),    
+    createdAt: new Date('2025'),
+     websiteUrl: 'https://www.youtube.com/watch?v=OdyrFpnRofs&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE&index=3',
   },
   {
     id: '2',
@@ -50,6 +51,7 @@ export const initialWorks: CreativeWork[] = [
     tools: ['Blender', 'Maya', 'Premiere'],
     coverImage: 'https://images.unsplash.com/photo-1618761714954-0b8cd0026356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzYwMzk3MzMzfDA&ixlib=rb-4.1.0&q=80&w=1080',
     createdAt: new Date('2025'),
+    websiteUrl: 'https://www.youtube.com/watch?v=0HjZzNRysJ4&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE&index=4',
   },
   {
     id: '3',
@@ -62,6 +64,7 @@ export const initialWorks: CreativeWork[] = [
     tools: ['Visual Code Studio', 'Adobe Photoshop', 'Adobe Illustrator', 'Adobe After Effects', 'Adobe Premiere'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/Metrika.jpeg',
     createdAt: new Date('2025'),
+     websiteUrl: 'https://www.youtube.com/watch?v=0HjZzNRysJ4&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE&index=4',
   },
   {
     id: '4',
@@ -74,6 +77,7 @@ export const initialWorks: CreativeWork[] = [
     tools: ['Premier',' After effects',' Photoshop', 'Maya', 'Zbrush', 'Quick magic'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/dragonslogo2.jpg',
     createdAt: new Date('2025'),
+     websiteUrl: 'https://www.youtube.com/watch?v=0HjZzNRysJ4&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE&index=4',
   },
   {
     id: '5',
@@ -86,6 +90,7 @@ export const initialWorks: CreativeWork[] = [
     tools: ['Blender', 'Maya', 'Premiere'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/Dream Factory.jpeg',
     createdAt: new Date('2025'),
+     websiteUrl: 'https://www.youtube.com/watch?v=0HjZzNRysJ4&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE&index=4',
   },
   {
     id: '6',
