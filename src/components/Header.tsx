@@ -28,7 +28,7 @@ export function Header({ searchQuery, onSearchChange, onAddWork, onNavigateToHom
           <div className="flex items-center justify-between mb-6">
             <div className="flex items-center gap-4">
                <img
-                src="src/assets/logo2.png"
+                src="https://lizgar.github.io/ImgDesignare/assets/logo2.png"
                 alt="DESIGNARE Logo"
                 className="h-16 w-auto"
               />
