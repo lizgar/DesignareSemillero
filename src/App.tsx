@@ -15,6 +15,7 @@ export type CreativeWork = {
   fileUrl?: string;
   coverImage?: string;
   createdAt: Date;
+  websiteUrl?: string;
 };
 
 export type Category = {
@@ -36,6 +37,7 @@ export const initialWorks: CreativeWork[] = [
     tools: ['Blender', 'Maya', 'Premiere'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/estallido.jpeg',
     createdAt: new Date('2025'),
+    
   },
   {
     id: '2',
@@ -96,6 +98,7 @@ export const initialWorks: CreativeWork[] = [
     tools: ['Maya Autodesk', 'Adobe Substance Painter', 'Adobe Photoshop', 'Adobe Illustrator', 'Krita', 'Adobe Premiere Pro', 'Adobe Audition.'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/lactika.jpeg',
     createdAt: new Date('2025'),
+    websiteUrl: 'https://www.youtube.com/watch?v=crHvSmIwaeA&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE',
   },
 ];
 
