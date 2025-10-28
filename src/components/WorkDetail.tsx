@@ -99,8 +99,8 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
           <div className="flex gap-3">
     
             <Button variant="outline" className="flex-1">
-              <ExternalLink className="h-4 w-4 mr-2" />
-             {work.websiteUrl}
+              <ExternalLink className="h-4 w-4 mr-2" {work.websiteUrl} />
+             
             </Button>
           </div>
 
