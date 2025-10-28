@@ -45,10 +45,7 @@ export function Header({ searchQuery, onSearchChange, onAddWork, onNavigateToHom
                   Inicio
                 </Button>
               )}
-              <Button onClick={() => setDialogOpen(true)}>
-                <Plus className="h-4 w-4 mr-2" />
-                Agregar Proyecto
-              </Button>
+              
             </div>
           </div>
           
