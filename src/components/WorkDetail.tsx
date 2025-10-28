@@ -98,9 +98,9 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
 
           <div className="flex gap-3">
             
-            <a className="flex-1" href="https://www.youtube.com/watch?v=crHvSmIwaeA&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE" target="_blank"  >
+            <a className="h-4 w-4 mr-2" className="flex-1" href="{work.websiteUrl}" target="_blank"  >
               <Button variant="outline" >
-              <ExternalLink className="h-4 w-4 mr-2" />
+              <ExternalLink  />
              
             </Button></a>
           </div>
