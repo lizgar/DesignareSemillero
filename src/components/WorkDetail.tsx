@@ -100,19 +100,11 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
     
             <Button variant="outline" className="flex-1">
               <ExternalLink className="h-4 w-4 mr-2" />
-              {work.websiteUrl}
+             {work.description}
             </Button>
           </div>
 
-          <div className="bg-muted p-4 rounded-lg">
-            <p className="text-muted-foreground">
-              Agregado el {work.createdAt.toLocaleDateString('es-ES', { 
-                day: 'numeric',
-                month: 'long',
-                year: 'numeric'
-              })}
-            </p>
-          </div>
+          
         </div>
       </DialogContent>
     </Dialog>
