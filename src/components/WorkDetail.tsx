@@ -106,15 +106,7 @@ export function WorkDetail({ work, onClose }: WorkDetailProps) {
 </a>
           </div>
 
-          <div className="bg-muted p-4 rounded-lg">
-            <p className="text-muted-foreground">
-              Agregado el {work.createdAt.toLocaleDateString('es-ES', { 
-                day: 'numeric',
-                month: 'long',
-                year: 'numeric'
-              })}
-            </p>
-          </div>
+         
 
           
         </div>
