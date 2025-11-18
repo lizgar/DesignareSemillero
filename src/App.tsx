@@ -81,7 +81,7 @@ export const initialWorks: CreativeWork[] = [
   },
   {
     id: '5',
-    title: 'Cortometraje Animado: Dream Factory',
+    title: 'Cortometraje Animado: HeartNet',
     author: 'Michael Steven Ballen Romero, Sheila Damaris Gómez Castiblanco, Lizeth Dayanna León León y Nicole Stephania Montenegro Vanegas',
     category: 'Animación 3D',
     description: 'Heartnnet explora, desde una mirada introspectiva, las fisuras emocionales de una familia rota. Tres hermanas intentan sostener su frágil hogar marcado por la ausencia de sus padres y la falta de comunicación. Nick, la menor, se siente invisible y busca en un extraño en línea el consuelo y la validación que no encuentra en casa, sin sospechar que esa aparente conexión oculta manipulación y peligro. ',
@@ -90,7 +90,7 @@ export const initialWorks: CreativeWork[] = [
     tools: ['Blender', 'Maya', 'Premiere'],
     coverImage: 'https://lizgar.github.io/ImgDesignare/assets/Dream Factory.jpeg',
     createdAt: new Date('2025'),
-     websiteUrl: 'https://www.youtube.com/watch?v=0HjZzNRysJ4&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE&index=4',
+     websiteUrl: 'https://youtu.be/Ppulfb8qSsU',
   },
   {
     id: '6',
