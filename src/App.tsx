@@ -105,6 +105,19 @@ export const initialWorks: CreativeWork[] = [
     createdAt: new Date('2025'),
     websiteUrl: 'https://www.youtube.com/watch?v=crHvSmIwaeA&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE',
   },
+   {
+    id: '7',
+    title: 'Cortometraje Animado: No More Lands',
+    author: ' Andrés Felipe Sánchez, Carlos Puentes, Deisy Bejarano, Nixxon Moreno, Sergio Murillo',
+    category: 'Animación 3D',
+    description: '¿Qué pasaría si lo poco que queda, te lo arrebatan a gran escala, escala planetaria?  ¿Qué será de quienes se quedan abajo?',
+    year: 2025,
+    institution: 'DESIGNARE - Semillero de Investigación',
+    tools: ['Maya', 'Premiere Pro', 'Illustrator', 'Adobe Substance', 'Photoshop', 'Audition'],
+    coverImage: 'https://lizgar.github.io/ImgDesignare/assets/NomoreLands.jpg',
+    createdAt: new Date('2025'),
+    websiteUrl: 'https://youtu.be/ZO7uk3aJv_A?si=-s48pzmu98aihkjf',
+  },
 ];
 
 export default function App() {
