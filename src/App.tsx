@@ -49,7 +49,7 @@ export const initialWorks: CreativeWork[] = [
     year: 2025,
     institution: 'DESIGNARE - Semillero de Investigación',
     tools: ['Blender', 'Maya', 'Premiere'],
-    coverImage: 'https://images.unsplash.com/photo-1618761714954-0b8cd0026356?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHx3ZWIlMjBkZXNpZ24lMjBpbnRlcmZhY2V8ZW58MXx8fHwxNzYwMzk3MzMzfDA&ixlib=rb-4.1.0&q=80&w=1080',
+    coverImage: 'https://lizgar.github.io/ImgDesignare/assets/SEDVENGANZA.jpeg',
     createdAt: new Date('2025'),
     websiteUrl: 'https://www.youtube.com/watch?v=0HjZzNRysJ4&list=PL6I6E4qqZaRZEyFl7sLO0H6ezK4Be6-KE&index=4',
   },
